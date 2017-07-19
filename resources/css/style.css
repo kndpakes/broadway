@@ -1,0 +1,56 @@
+*   {
+	
+	font-family: helvetica, arial, san-serif;
+	}
+
+#banner {
+	background-image: url("../images/buildingresize.png");
+	color: white;
+	text-align: center;
+	}
+
+.nav {
+	color: white;
+	font-size: 18px;
+	}
+
+.process {
+	color: black;
+	font-weight: bold;
+	text-align: center;
+}
+
+h1 {
+	font-size: 70px;
+	font-weight: bold;
+}
+
+h2 {
+	font-size=32px;
+}
+	
+h3 {
+	font-size: 23px;
+}	
+	
+.text {
+	font-size: 14px;
+}	
+
+.ny {
+	color: white;
+	font-size: 23px;
+	font-weight: bold;
+	background-image: url("../images/buildingresize.png");
+	text-align: center;
+}
+
+#footer {
+	background-color: dimgray;
+}	
+	
+.copyright {
+	color: white;
+	text-align: left;
+	font-size: 11px;
+	}	
